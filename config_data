@@ -1,0 +1,481 @@
+{
+  "token": "user:3198-dUn4mvNGNKxavZPcYddrz",
+  "daily_limit": 7,
+  "daily_limit_video": 20,
+  "version_number": "1.0.0",
+  "flow_lite_model_name": "veo-3.1-lite",
+  "categories": [
+    {
+      "category": "Hot & Spicy Dance",
+      "icon": "flame.fill",
+      "templates": [
+        {
+          "template_id": 426569337149632,
+          "credit": 300,
+          "title": "Hotel lobby"
+        },
+        {
+          "template_id": 417025009850560,
+          "credit": 90,
+          "title": "What a day"
+        },
+        {
+          "template_id": 419495334797504,
+          "credit": 120,
+          "title": "Seven move dance"
+        },
+        {
+          "template_id": 419508462747840,
+          "credit": 60,
+          "title": "Hot Dance"
+        },
+        {
+          "template_id": 416278340746048,
+          "credit": 90,
+          "title": "OBH Combi Saset"
+        },
+        {
+          "template_id": 420009645940032,
+          "credit": 90,
+          "title": "Hot Dance in Dance Studio"
+        },
+        {
+          "template_id": 422324843777280,
+          "credit": 120,
+          "title": "Bye-Bye Tambourine"
+        },
+        {
+          "template_id": 419495964465344,
+          "credit": 90,
+          "title": "Bathroom Hot Dance"
+        },
+        {
+          "template_id": 419494522339520,
+          "credit": 120,
+          "title": "60's Dance Night"
+        },
+        {
+          "template_id": 427124898834880,
+          "credit": 90,
+          "title": "Wednesday Move"
+        },
+        {
+          "template_id": 422328195663104,
+          "credit": 90,
+          "title": "Kawaii Mode On"
+        },
+        {
+          "template_id": 369205129275584,
+          "credit": 120,
+          "title": "Be My Lady"
+        },
+        {
+          "template_id": 422328195663104,
+          "credit": 120,
+          "title": "Thriller Dance"
+        }
+      ]
+    },
+    {
+      "category": "Halloween",
+      "icon": "pawprint.fill",
+      "templates": [
+        {
+          "template_id": 429333421930077,
+          "credit": 90,
+          "title": "Got a Pumpkin Skin"
+        },
+        {
+          "template_id": 365170951985920,
+          "credit": 90,
+          "title": "Escape From Nightmare"
+        },
+        {
+          "template_id": 302325299672128,
+          "credit": 90,
+          "title": "Zombie Hand"
+        },
+        {
+          "template_id": 366773399804864,
+          "credit": 90,
+          "title": "I Quit"
+        },
+        {
+          "template_id": 427279366457685,
+          "credit": 90,
+          "title": "Catch a little devil at the Halloween"
+        },
+        {
+          "template_id": 429531266324173,
+          "credit": 90,
+          "title": "Midnight Horror"
+        },
+        {
+          "template_id": 427277710224056,
+          "credit": 60,
+          "title": "Monster Musical Chairs"
+        }
+      ]
+    },
+    {
+      "category": "K-Pop / Girl Group Dance",
+      "icon": "music.mic",
+      "templates": [
+        {
+          "template_id": 400630377336917,
+          "credit": 60,
+          "title": "SEOUL - K-Pop Star"
+        },
+        {
+          "template_id": 423223398247552,
+          "credit": 90,
+          "title": "Girl group dance"
+        },
+        {
+          "template_id": 420696099161536,
+          "credit": 90,
+          "title": "Conditions of Love · Kpop March"
+        },
+        {
+          "template_id": 423886214180480,
+          "credit": 120,
+          "title": "Twice March"
+        },
+        {
+          "template_id": 417719655451776,
+          "credit": 90,
+          "title": "Cavalona Dance!"
+        },
+        {
+          "template_id": 423202515883712,
+          "credit": 90,
+          "title": "So say it ditto"
+        },
+        {
+          "template_id": 343058524240960,
+          "credit": 90,
+          "title": "Shake Shake Disco"
+        },
+        {
+          "template_id": 423724838636736,
+          "credit": 90,
+          "title": "Like a Cat"
+        },
+        {
+          "template_id": 416328806493760,
+          "credit": 90,
+          "title": "ACAI Dance Duet "
+        }
+      ]
+    },
+    {
+      "category": "Hip-Hop / Street / Cool Dance",
+      "icon": "figure.dance",
+      "templates": [
+        {
+          "template_id": 426926114156736,
+          "credit": 120,
+          "title": "MJ Dance"
+        },
+        {
+          "template_id": 421965560368448,
+          "credit": 90,
+          "title": "Hiphop Challenge: Oldschool"
+        },
+        {
+          "template_id": 423703601587392,
+          "credit": 90,
+          "title": "See hip-hop again"
+        },
+        {
+          "template_id": 395253042098112,
+          "credit": 90,
+          "title": "Watch this"
+        },
+        {
+          "template_id": 324641581197696,
+          "credit": 90,
+          "title": "Let's YMCA!"
+        },
+        {
+          "template_id": 369205319610560,
+          "credit": 60,
+          "title": "Shake Fever"
+        },
+        {
+          "template_id": 381090080287680,
+          "credit": 90,
+          "title": "Classroom Show"
+        },
+        {
+          "template_id": 386546350378048,
+          "credit": 120,
+          "title": "Street Vibe"
+        },
+        {
+          "template_id": 397376302051264,
+          "credit": 120,
+          "title": "Babyboo"
+        },
+        {
+          "template_id": 343058574996544,
+          "credit": 135,
+          "title": "Li xi Chang Merch"
+        }
+      ]
+    },
+    {
+      "category": "Hand / Gesture Dance",
+      "icon": "hand.raised.fill",
+      "templates": [
+        {
+          "template_id": 420694747833792,
+          "credit": 90,
+          "title": "GGEZ hand gesture dance"
+        },
+        {
+          "template_id": 420546234125760,
+          "credit": 90,
+          "title": "Obhcombisachet gesture dance"
+        },
+        {
+          "template_id": 416278340746048,
+          "credit": 150,
+          "title": "OBH combi saset"
+        },
+        {
+          "template_id": 422649432008512,
+          "credit": 60,
+          "title": "Gesture Dance"
+        },
+        {
+          "template_id": 420012242736448,
+          "credit": 60,
+          "title": "Love Scenario hand dance"
+        },
+        {
+          "template_id": 422472555206720,
+          "credit": 60,
+          "title": "Finger controlled dance"
+        },
+        {
+          "template_id": 421091420725760,
+          "credit": 90,
+          "title": "Angel Lemon Fork Dance"
+        }
+      ]
+    },
+    {
+      "category": "Funny / Meme / Cute Dance",
+      "icon": "face.smiling.fill",
+      "templates": [
+        {
+          "template_id": 333178074897472,
+          "credit": 90,
+          "title": "Jiggle Jiggle"
+        },
+        {
+          "template_id": 337572593925696,
+          "credit": 90,
+          "title": "Skeleton Dance"
+        },
+        {
+          "template_id": 420008694271296,
+          "credit": 90,
+          "title": "Cute Makka Pakka Dance"
+        },
+        {
+          "template_id": 343058274917440,
+          "credit": 120,
+          "title": "Gabu Dance"
+        },
+        {
+          "template_id": 402855499541504,
+          "credit": 150,
+          "title": "Sticker Jive"
+        },
+        {
+          "template_id": 369205270681792,
+          "credit": 105,
+          "title": "Wiggle & Wobble Challenge"
+        },
+        {
+          "template_id": 422645223507776,
+          "credit": 90,
+          "title": "Dance With Minions"
+        }
+      ]
+    },
+    {
+      "category": "Pet / Animal Dance",
+      "icon": "pawprint.fill",
+      "templates": [
+        {
+          "template_id": 420171913860544,
+          "credit": 90,
+          "title": "Cute Puppy Dancing"
+        },
+        {
+          "template_id": 420171294385600,
+          "credit": 90,
+          "title": "Pet Dance Trainee"
+        },
+        {
+          "template_id": 420008694271296,
+          "credit": 90,
+          "title": "Cute Makka Pakka Dance"
+        },
+        {
+          "template_id": 421090212276736,
+          "credit": 90,
+          "title": "Come dance with the kitten quickly"
+        },
+        {
+          "template_id": 420696745231808,
+          "credit": 90,
+          "title": "Dance practice time"
+        },
+        {
+          "template_id": 420009645940032,
+          "credit": 90,
+          "title": "Hot Dance in Dance Studio"
+        },
+        {
+          "template_id": 406785397691383,
+          "credit": 60,
+          "title": "Purrfect Sync"
+        }
+      ]
+    },
+    {
+      "category": "Cultural / Traditional Dance",
+      "icon": "globe.asia.australia.fill",
+      "templates": [
+       
+        {
+          "template_id": 384097020511808,
+          "credit": 60,
+          "title": "Oriental Phonk"
+        },
+        {
+          "template_id": 421050748444352,
+          "credit": 120,
+          "title": "Oriental Phonk!"
+        },
+        {
+          "template_id": 419513168390336,
+          "credit": 120,
+          "title": "Brazilian Goose-step Dance"
+        },
+        {
+          "template_id": 422329130982656,
+          "credit": 120,
+          "title": "Brazilian Walk Mode"
+        },
+        {
+          "template_id": 422151057162624,
+          "credit": 120,
+          "title": "Church dance sway"
+        }
+      ]
+    },
+    {
+      "category": "Party / Festival / Disco",
+      "icon": "party.popper.fill",
+      "templates": [
+        {
+          "template_id": 414113737169083,
+          "credit": 60,
+          "title": "FESTIVAL DANCE"
+        },
+        {
+          "template_id": 343058524240960,
+          "credit": 120,
+          "title": "Shake Shake Disco"
+        },
+        {
+          "template_id": 324641581197696,
+          "credit": 60,
+          "title": "Let's YMCA!"
+        },
+        {
+          "template_id": 415039966443665,
+          "credit": 60,
+          "title": "Beach Party Crew"
+        },
+        {
+          "template_id": 423746363110592,
+          "credit": 90,
+          "title": "Dancing in the Rain"
+        },
+        {
+          "template_id": 385029031987388,
+          "credit": 60,
+          "title": "Blooming Rain"
+        },
+        {
+          "template_id": 391308286562386,
+          "credit": 60,
+          "title": "Earth Day Dance"
+        },
+        {
+          "template_id": 400270375080747,
+          "credit": 60,
+          "title": "Party with Mom"
+        }
+      ]
+    },
+    {
+      "category": "Viral / Dance Challenge",
+      "icon": "bolt.fill",
+      "templates": [
+        {
+          "template_id": 419512178938048,
+          "credit": 60,
+          "title": "Zongzhu’s Jumpstyle"
+        },
+        {
+          "template_id": 419671115476288,
+          "credit": 120,
+          "title": "Subject 3 Fever!"
+        },
+        {
+          "template_id": 367828176752256,
+          "credit": 75,
+          "title": "Aşkım Çok Pardon"
+        },
+        {
+          "template_id": 421431970853184,
+          "credit": 120,
+          "title": "Bigguy Karate Dance Challenge"
+        },
+        
+        {
+          "template_id": 420208008218048,
+          "credit": 120,
+          "title": "ELA Challenge"
+        },
+        {
+          "template_id": 421432310042944,
+          "credit": 120,
+          "title": "God's Eight Second Dance Challenge"
+        },
+        {
+          "template_id": 421965560368448,
+          "credit": 90,
+          "title": "Hiphop Challenge: Oldschool"
+        },
+        {
+          "template_id": 419814085221696,
+          "credit": 60,
+          "title": "Two dance!"
+        },
+        {
+          "template_id": 423031322691456,
+          "credit": 90,
+          "title": "Dance like this"
+        }
+      ]
+    }
+  ]
+}
