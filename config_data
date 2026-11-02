@@ -2,6 +2,7 @@
   "token": "user:3198-dUn4mvNGNKxavZPcYddrz",
   "daily_limit": 7,
   "daily_limit_video": 20,
+  "daily_limit_image": 20,
   "version_number": "1.0.0",
   "flow_lite_model_name": "veo-3.1-lite",
   "categories": [
