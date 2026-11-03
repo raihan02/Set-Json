@@ -1,1 +1,28 @@
-
+{
+  "kie_token": "ef96973cb41159059a118135a3ea06d4",
+  "use_api_token_1": "user:3198-dUn4mvNGNKxavZPcYddrz",
+  "use_api_token_2": "user:3198-dUn4mvNGNKxavZPcYddrz",
+  "version_number": "1.0.0",
+  "flow_lite_model_name": "veo-3.1-lite",
+  "flow_fast_model_name": "veo-3.1-lite",
+  "omni_model_name": "omni-flash",
+  "create_image_gif": "https://media.pixverse.ai/asset%2Ftemplate%2Fselfieboth101.webp",
+  "create_video_gif": "https://media.pixverse.ai/asset%2Ftemplate%2FPixVerse_V6_Image_Text_1080P_%E4%B8%BB%E4%BD%93%E6%8A%AC%E5%A4%B4%E7%9C%8B%E5%90%91%E4%B9%8C%E4%BA%91%E5%AF%86%E5%B8%83%EF%BC%8C%E8%84%9A%E6%AD%A5%E7%89%B9%E5%86%99%E3%80%82%E4%B8%BB+%281%29.webp",
+  "is_fallback_image": false,
+  "in_review": false,
+  "daily_limits": {
+    "reset_timezone": "UTC",
+    "video": {
+      "veo_lite": 10,
+      "veo_fast": 10,
+      "veo_omni": 5,
+      "grok": 5,
+      "seedance_fast": 5
+    },
+    "image": {
+      "nano_banana_pro": 10,
+      "nano_banana_2": 10,
+      "nano_banana_lite": 10
+    }
+  }
+}
